@@ -2,12 +2,12 @@
     <maSociete:livre xmlns:maSociete="http://www.masociete.com">
         <maSociete:titre>Les languages </maSociete:titre> 
         <maSociete:auteur>
-            <maSociete:nom>Messadi</maSociete:nom>
-            <maSociete:prenom>Amine</maSociete:prenom>
+            <maSociete:nom>JRABA</maSociete:nom>
+            <maSociete:prenom>Ahmed</maSociete:prenom>
         </maSociete:auteur>
         <maSociete:auteur>
-            <maSociete:nom>Belhadj</maSociete:nom>
-            <maSociete:prenom>Jamila</maSociete:prenom>
+            <maSociete:nom>RIAHI</maSociete:nom>
+            <maSociete:prenom>Hatem</maSociete:prenom>
         </maSociete:auteur>
     <sections>
         <maSociete:section>
