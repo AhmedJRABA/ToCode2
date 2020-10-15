@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <livre titre="Languages">
-    <auteur nom="Messadi" prenom="Amine" />
-    <auteur nom="Belhadj" prenom="Jamila" />
+    <auteur nom="JRABA" prenom="Ahmed" />
+    <auteur nom="RIAHI" prenom="Hatem" />
     <sections>
     <section titre="Section I" >
         <chapitre titre="XML">
-            <paragraphe>langage extensible de feuille de style. 
-                </paragraphe>
+            <paragraphe>langage extensible de feuille de style. </paragraphe>
             <paragraphe> Cette abréviation recouvre en fait trois langages :XPath ,XSLT ,XSL-FO</paragraphe>
         </chapitre>
         <chapitre titre="HTML">
