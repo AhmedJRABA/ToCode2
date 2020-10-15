@@ -2,19 +2,18 @@
     <livre>
         <titre>Les languages</titre> 
         <auteur>
-            <nom>Messadi</nom>
-            <prenom>Amine</prenom>
+            <nom>JRABA</nom>
+            <prenom>Ahmed</prenom>
         </auteur>
         <auteur>
-            <nom>Belhadj</nom>
-            <prenom>Jamila</prenom>
+            <nom>riahi</nom>
+            <prenom>Hatem</prenom>
         </auteur>
         <section>
             <titre>Section I</titre>
             <chapitre>
                 <titre>XML</titre>
-                <paragraphe>langage extensible de feuille de style. 
-                    </paragraphe>
+                <paragraphe>langage extensible de feuille de style. </paragraphe>
                 <paragraphe> Cette abréviation recouvre en fait trois langages :XPath ,XSLT ,XSL-FO</paragraphe>
             </chapitre>
             <chapitre>
